@@ -3,6 +3,6 @@ Project: Back End framework. Basic Backend functionalities are already implement
 
 Business Model:
 
-License:
+License: MIT
 
-Why the License: 
+Why the License: We want user to be able to easily modify and use the framework which is similar to Angular.
