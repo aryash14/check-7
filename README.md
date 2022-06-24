@@ -1,5 +1,5 @@
 # check-7
-Project: Back End framework. Basic Backend functionalities are already implemented. For instance user login.
+Project: Back End framework. Basic Backend functionalities are already implemented. For instance user login. You would get the option to choose from some back end functionalities as well like creating posts, commenting and so on.
 
 Business Model:
 
